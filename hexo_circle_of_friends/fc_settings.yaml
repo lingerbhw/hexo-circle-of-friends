@@ -30,11 +30,22 @@ LINK: [
 #       avatar：必填，头像地址
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
-    enable: false,
+    enable: true,
     json_api: "",
     list: [
         # 示例1：
         # ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
+        ["Hoyue の 自留地", "https://hoyue.fun/", "https://hoyue.fun/wp-content/uploads/2021/10/82411951_p0-e1634746009408.jpg"],
+        ["张洪Heo", "https://blog.zhheo.com/", "https://f.zhheo.com/Guli/img/avatar2.png"],
+        ["细粒丁の小窝", "https://tenyding.cn/", "https://tenyding.cn/image/avatar.jpg"],
+        ["糖宝の小窝", "https://blog.tangbao.ltd/", "https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/blog/iro/Avatar.jpg"],
+        ["澄沨的漫游茶记", "https://champhoon.xyz/", "https://api.champhoon.xyz/favicon/favicon-main.png"],
+        ["小白屋", "https://www.kjyyds.xyz/", "https://view.moezx.cc/images/2022/03/26/3191d648369b794c6d9ac078d4fe4cea.gif"],
+        ["小N同学", "https://www.imcharon.com/", "https://img.cdn.nesxc.com/upload/blog-other-pic/android-chrome-512x512.png"],
+        ["叶小兽のBlog", "https://www.moeshou.com/", "https://img.moeshou.com/blog/2021/11/logo.jpg"],
+        ["Vincent文朔", "https://blog.vincent1230.top/", "http://a.vincent1230.top/blogrol/avatar.jpg"],
+        ["JIPA233の小窝", "https://jipa.moe/", "https://jipa.moe/static/avatar.jpg"],
+        ["Akilarの糖果屋", "https://akilar.top/", "https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.png"]
     ]
 }
 
